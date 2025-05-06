@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kavyazoe
+- 👋 Hi, I’m @Kavya Manoj
 - 👀 I’m interested in art,anime,coffee,technology,literature and crafts.
-- 🌱Currently pursuing Masters in Bioinformatics
+  
 
 
 <!---
